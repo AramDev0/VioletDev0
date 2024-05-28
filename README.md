@@ -1,11 +1,11 @@
 <img src="https://i.postimg.cc/J7Z4P3cc/lyw.png">
 
-<span align="center">
+<span>
   <a href="https://github.com/LynnDev0">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </span>
-<span align="center">
+<span>
   <a href="https://discord.gg/teamundo">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
