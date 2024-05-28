@@ -1,4 +1,5 @@
-[lynndev](https://i.postimg.cc/J7Z4P3cc/lyw.png)
+<img src="https://i.postimg.cc/J7Z4P3cc/lyw.png">
+
 
 ![typescript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
