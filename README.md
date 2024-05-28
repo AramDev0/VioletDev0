@@ -1,4 +1,6 @@
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![javascript badge](https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=#F7DF1E)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
