@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/J7Z4P3cc/lyw.png" alt="Violet" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+<img src="https://i.postimg.cc/J7Z4P3cc/lyw.png">
 
 <div align="center">
 
