@@ -2,6 +2,7 @@
 
 <div align="center">
 
+  ### SNS:
   <span>
     <a href="https://github.com/LynnDev0">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -11,7 +12,7 @@
     </a>
   </span>
 
-  ### Languages and Tools:
+  ### Languages:
   <span>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -29,7 +30,4 @@
 
   ### Streak Stats:
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lynndev0&theme=radical&hide_border=true)
-
-  ### Trophies:
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=lynndev0&theme=radical&no-frame=true&column=7)
 </div>
