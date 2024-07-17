@@ -30,6 +30,4 @@
   ### Top Languages:
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lynndev0&layout=compact&theme=radical)
 
-  ### Streak Stats:
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lynndev0&theme=radical&hide_border=true)
 </div>
