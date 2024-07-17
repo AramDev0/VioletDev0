@@ -6,7 +6,7 @@
 
   ### SNS:
   <span>
-    <a href="https://github.com/LynnDev0">
+    <a href="https://github.com/VioLetDev0">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://discord.gg/teamundo">
