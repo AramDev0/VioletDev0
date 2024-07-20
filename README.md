@@ -26,9 +26,9 @@
   </span>
   
   ### Top Languages:
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lynndev0&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=violetdev0&layout=compact&theme=radical)
 
   ### GitHub Stats:
-  ![LynnDev GitHub stats](https://github-readme-stats.vercel.app/api?username=lynndev0&show_icons=true&theme=radical)
+  ![LynnDev GitHub stats](https://github-readme-stats.vercel.app/api?username=violetdev0&show_icons=true&theme=radical)
 
 </div>
