@@ -1,12 +1,10 @@
-<div align="center">
 
-<img src="https://i.ibb.co/BBxDmtV/1721231503491.jpg">
 
 <div align="center">
 
   ### SNS:
   <span>
-    <a href="https://github.com/AramDev0">
+    <a href="https://github.com/d4nndev">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </span>
