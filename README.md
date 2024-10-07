@@ -91,10 +91,10 @@
   </span>
   
   ### Top Languages:
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aramdev0&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d4nndev&layout=compact&theme=radical)
 
   ### GitHub Stats:
-  ![LynnDev GitHub stats](https://github-readme-stats.vercel.app/api?username=aramdev0&show_icons=true&theme=radical)
+  ![LynnDev GitHub stats](https://github-readme-stats.vercel.app/api?username=d4nndev&show_icons=true&theme=radical)
 
 </div>
 
